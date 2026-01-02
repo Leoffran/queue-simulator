@@ -1,6 +1,6 @@
 # Queue Simulator (C++)
 
-Discrete-event simulation of a single-server queue (M/M/1)
+Discrete-event simulation of a single-server queue (D/M/1)
 
 ## Features
 - Event-driven simulation
